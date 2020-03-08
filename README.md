@@ -1,6 +1,7 @@
 # Full-context label for VCTK-Corpus
 
 This repository provides full-context label files for [VCTK-Corpus](https://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html).
+
 The label files are created by following the preprocessing in [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch).
 
 
