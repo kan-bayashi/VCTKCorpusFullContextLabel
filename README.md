@@ -4,6 +4,13 @@ This repository provides full-context label files for [VCTK-Corpus](https://home
 
 The label files are created by following the preprocessing in [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch).
 
+## Missing files
+
+- `lab/*/p315/*.lab` (p315 lacks txt)
+- `lab/mono/p295/p295_047.lab` (alignment failed)
+- `lab/mono/p305/p305_423.lab` (alignment failed)
+- `lab/mono/p317/p317_424.lab` (alignment failed)
+- `lab/mono/p345/p345_387.lab` (alignment failed)
 
 ## Data structure
 
